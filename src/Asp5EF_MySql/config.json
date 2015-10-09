@@ -1,0 +1,10 @@
+{
+   "AppSettings": {
+    "SiteTitle": "Books"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=xx.xx.x.xxx; Database=asp5mysql; Uid=root; Pwd=xxxx@123;"
+    }
+  }
+}
